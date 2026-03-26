@@ -6,7 +6,7 @@ It compares linear, polynomial, and RBF kernels on the Banknote Authentication d
 
 ## Repository contents
 
-- `svm_banknote_tutorial.ipynb` — main notebook with full code, results, and figures
+- `svm_banknote.ipynb` — main notebook with full code, results, and figures
 - `SVM_Kernels_Banknote_Tutorial.pdf` — tutorial PDF
 - `banknote_authentication.csv` — dataset used in the notebook
 - `requirements.txt` — Python package requirements
